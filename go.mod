@@ -1,4 +1,4 @@
-module gopkg.in/oauth2.v3
+module github.com/mkaczanowski/oauth2
 
 go 1.13
 
