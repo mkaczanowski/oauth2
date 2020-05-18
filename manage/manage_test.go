@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/manage"
-	"gopkg.in/oauth2.v3/models"
-	"gopkg.in/oauth2.v3/store"
+	"github.com/mkaczanowski/oauth2"
+	"github.com/mkaczanowski/oauth2/manage"
+	"github.com/mkaczanowski/oauth2/models"
+	"github.com/mkaczanowski/oauth2/store"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

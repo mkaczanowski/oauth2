@@ -9,9 +9,9 @@ import (
 	errs "errors"
 
 	"github.com/dgrijalva/jwt-go"
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/errors"
-	"gopkg.in/oauth2.v3/utils/uuid"
+	"github.com/mkaczanowski/oauth2"
+	"github.com/mkaczanowski/oauth2/errors"
+	"github.com/mkaczanowski/oauth2/utils/uuid"
 )
 
 // JWTAccessClaims jwt claims

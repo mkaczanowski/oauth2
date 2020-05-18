@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/errors"
+	"github.com/mkaczanowski/oauth2"
+	"github.com/mkaczanowski/oauth2/errors"
 )
 
 // NewDefaultServer create a default authorization server

@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/generates"
-	"gopkg.in/oauth2.v3/models"
+	"github.com/mkaczanowski/oauth2"
+	"github.com/mkaczanowski/oauth2/generates"
+	"github.com/mkaczanowski/oauth2/models"
 
 	. "github.com/smartystreets/goconvey/convey"
 )
